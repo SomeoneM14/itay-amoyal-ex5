@@ -1,0 +1,18 @@
+﻿  Rectangle.cpp
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(14591,21): message : while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(14242,25): message : see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(13904,16): message : see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(16416,7): message : see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(51302,5): message : see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(16416,1): message : see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(16406,12): message : while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(51302,5): message : see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(28055,1): message : see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(36739,18): message : see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+C:\Users\Cyber_User\Desktop\ekronot\ls5\CImg.h(45265,4): message : see reference to class template instantiation 'cimg_library::CImg<T>' being compiled
+  ls5.vcxproj -> C:\Users\Cyber_User\Desktop\ekronot\ls5\x64\Debug\ls5.exe
